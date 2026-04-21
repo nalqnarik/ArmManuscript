@@ -1,0 +1,11 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.pkl
+*.pt
+*.pth
+*.h5
+*.zip
+.env
+.venv/
+.vscode/
